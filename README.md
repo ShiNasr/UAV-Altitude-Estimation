@@ -1,4 +1,4 @@
-# UAV-Altitude-Estimation
+# UAV-Altitude-Estimation using SIFT Features
 This repository contains the code and data used for estimating UAV altitude by analyzing pairs of consecutive images using SIFT (Scale-Invariant Feature Transform) features. 
 The code processes a series of images, extracts keypoints, matches them, and calculates the relative altitude changes between consecutive image pairs.
 
