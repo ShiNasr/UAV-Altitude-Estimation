@@ -25,7 +25,9 @@ Structure (Data):
 ### Access the Dataset
 
 The images and additional files (jason files) can be accessed via the following link:
-The jason files have been converted into a single CSV (place0.csv) file for easier access and are shared in this repository
 [Download the files](https://zenodo.org/records/5813232#.YdKDG2BByUk)
+
+The jason files have been converted into a single CSV (place0.csv) file for easier access and are shared in this repository
+
 
 The code in this repository are provided for academic and research purposes.
