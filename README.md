@@ -16,11 +16,10 @@ The images and altitude data used in this project are part of the UDWA (UAV Data
 
 Structure (Data):
 
-The images and additional files can be accessed via the following Google Drive link:
-[Download the files] (https://drive.google.com/drive/folders/1hw6ufSxx1Pk-nUjWErdJXeAEVVwKIZKK?usp=sharing)
+
 
 "place01.csv" contains the altitude data corresponding to the images.
 
-"place01/images" contains the image files used for the analysis, which have been compressed into a ZIP archive for easier storage and transfer.
+"images" contains the image files of the place01 subcategory in the UDWA dataset used for the analysis
 
 The code in this repository are provided for academic and research purposes.
