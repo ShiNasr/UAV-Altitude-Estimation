@@ -20,6 +20,12 @@ Structure (Data):
 
 "place01.csv" contains the altitude data corresponding to the images.
 
-"images" contains the image files of the place01 subcategory in the UDWA dataset used for the analysis
+"palce01/images" contains the image files of the place01 subcategory in the UDWA dataset used for the analysis.
+
+### Access the Dataset
+
+The images and additional files (jason files) can be accessed via the following link:
+The jason files have been converted into a single CSV (place0.csv) file for easier access and are shared in this repository
+[Download the files](https://zenodo.org/records/5813232#.YdKDG2BByUk)
 
 The code in this repository are provided for academic and research purposes.
