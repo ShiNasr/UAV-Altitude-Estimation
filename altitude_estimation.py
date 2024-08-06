@@ -1,8 +1,3 @@
-
-'''
-This is the main and complete function to estimate the Relative Altitude using SIFT features on UDWA dataset
-'''
-# https://github.com/Aprus-system/UDWA/blob/main/README.md  UDWA datset
 import os
 import cv2
 import time
